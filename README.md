@@ -1,19 +1,15 @@
-# Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind 
+# Fullstack Notion Clone
 
-<!-- ![Copy of Copy of Copy of Fullstack Twitter Clone (6)](https://github.com/AntonioErdeljac/notion-clone-tutorial/assets/23248726/66bcfca3-93bf-4aa4-950d-f98c020e1156)
- -->
-
-This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind 
-
+This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind
 
 Key Features:
 
-- Real-time database  🔗 
-- Notion-style editor 📝 
+- Real-time database 🔗
+- Notion-style editor 📝
 - Light and Dark mode 🌓
 - Infinite children documents 🌲
 - Trash can & soft delete 🗑️
-- Authentication 🔐 
+- Authentication 🔐
 - File upload
 - File deletion
 - File replacement
@@ -30,12 +26,6 @@ Key Features:
 
 **Node version 18.x.x**
 
-### Cloning the repository
-
-```shell
-git clone https://github.com/AntonioErdeljac/notion-clone-tutorial.git
-```
-
 ### Install packages
 
 ```shell
@@ -43,7 +33,6 @@ npm i
 ```
 
 ### Setup .env file
-
 
 ```js
 # Deployment used by `npx convex dev`
